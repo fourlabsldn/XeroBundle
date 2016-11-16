@@ -1,5 +1,7 @@
 # XeroBundle
 
+[![StyleCI](https://styleci.io/repos/73813542/shield?branch=master)](https://styleci.io/repos/73813542)
+
 This is a Symfony bundle wrapping the [XeroPHP](https://github.com/calcinai/xero-php) library. From the library's github page:
 
 > A client implementation of the [Xero API](https://developer.xero.com), with a cleaner OAuth interface and ORM-like abstraction.
