@@ -1,0 +1,8 @@
+services:
+  fl_xero.app_factory:
+    class: FL\XeroBundle\XeroPHP\ApplicationFactory
+    arguments: ["%fl_xero.type%", "%fl_xero.config%"]
+
+  fl_xero.app:
+    class: XeroPHP\Application
+    factory: ["@fl_xero.app_factory", createApplication]
