@@ -24,8 +24,8 @@ class ApplicationFactory
     private $config;
 
     /**
-     * @param string $type One of "public"; "private"; "partner"
-     * @param array $config The configuration for XeroPHP
+     * @param string $type   One of "public"; "private"; "partner"
+     * @param array  $config The configuration for XeroPHP
      */
     public function __construct(string $type, array $config)
     {
