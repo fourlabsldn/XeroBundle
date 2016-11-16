@@ -17,5 +17,11 @@
             "name": "Four Labs",
             "email": "jonny@fourlabs.co.uk"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "FL\\XeroBundle\\": ""
+        }
+    }
 }
+
