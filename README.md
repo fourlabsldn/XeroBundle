@@ -1,6 +1,7 @@
 # XeroBundle
 
 [![StyleCI](https://styleci.io/repos/73813542/shield?branch=master)](https://styleci.io/repos/73813542)
+[![Total Downloads](https://poser.pugx.org/fourlabs/xero-bundle/downloads)](https://packagist.org/packages/fourlabs/xero-bundle)
 
 This is a Symfony bundle wrapping the [XeroPHP](https://github.com/calcinai/xero-php) library. From the library's github page:
 
