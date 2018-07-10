@@ -4,8 +4,8 @@
     "type": "symfony-bundle",
     "keywords": ["xero", "xero-php"],
     "require": {
-        "php": "^5.5.9|~7.0",
-        "calcinai/xero-php": "^1.5",
+        "php": ">=5.5.9",
+        "calcinai/xero-php": "^1.8",
         "symfony/config": "^2.7|^3.0",
         "symfony/debug": "^2.7|^3.0",
         "symfony/dependency-injection": "^2.7|^3.0",
