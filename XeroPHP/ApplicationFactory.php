@@ -10,7 +10,9 @@ use XeroPHP\Application\PublicApplication;
 class ApplicationFactory
 {
     const TYPE_PUBLIC = 'public';
+
     const TYPE_PRIVATE = 'private';
+
     const TYPE_PARTNER = 'partner';
 
     /**
